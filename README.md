@@ -1,5 +1,5 @@
 # Small Simple Shell
-A Basic shell program written in C using syscalls that accepts command from user and supports basic functionalities such as input-output redirection (piping). 
+A shell program written in C that accepts command from user and supports basic functionalities such as input-output redirection (piping). 
 
 
 
